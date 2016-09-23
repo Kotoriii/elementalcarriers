@@ -2,7 +2,7 @@
 
 This project is hosted on Bitbucket due to Github's file size limitations (project has assets larger than 100MBs).
 
-Team: A. Tupini, C. Mack, C. Jiménez, C. Oviedo
+<b>Team:</b> A. Tupini, C. Mack, C. Jiménez, C. Oviedo
 
 Elemental Carriers is a third person PC adventure video game created with Unity 3D 5.2. for a university project with third party assets that were mostly used with slight texture, animation and behavior modifications. It uses C# scripts imported from several assets which feature heavy modifications to suit the game's purposes.
 The game consists of 3 stages that resemble today's cities like Munich and Zurich and a variety of enemies that attack with their elemental powers, while your chosen main character (male or female) wields a weapon among 4 choices and has 4 different abilities to overcome his or her enemies.
